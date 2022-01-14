@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 body {
+  background-image: url(https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-size: cover;
+  background-position: center center;
+  min-height: 100vh;
   font-family: Poppins, sans-serif;
   margin: 0;
 }
